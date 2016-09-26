@@ -1,0 +1,1 @@
+# Prezentācija veidota ar reveal.js. [Skatīt šeit.](https://github.com/hakimel/reveal.js)
